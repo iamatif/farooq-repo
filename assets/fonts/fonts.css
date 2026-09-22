@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "EB Garamond";
+    font-style: normal;
+    font-weight: 400 800;
+    font-display: swap;
+    src: url("EBGaramond-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "EB Garamond";
+    font-style: italic;
+    font-weight: 400 800;
+    font-display: swap;
+    src: url("EBGaramond-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Apfel Grotezk";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("ApfelGrotezk-Regular.otf");
+}
