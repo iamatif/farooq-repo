@@ -1,4 +1,4 @@
-# A.S Fahad Portfolio — Vercel Package
+# Muhammad Farooq Portfolio — Vercel Package
 
 This folder is ready for deployment as a static Vercel website.
 
@@ -18,7 +18,5 @@ You can also drag the extracted folder into the Vercel CLI workflow using `verce
 - `index.html` — complete website structure and interactions
 - `assets/` — locally packaged fonts and icon font
 - `vercel.json` — static hosting and asset-cache configuration
-
-The main CSS, images and animation scripts referenced by the supplied source page are loaded from `asfahad.com`. The essential typography and icon fonts are included locally to prevent cross-domain font failures.
 
 The contact form is configured as a safe front-end demonstration. Connect your own form service or serverless endpoint before using it for real submissions.
